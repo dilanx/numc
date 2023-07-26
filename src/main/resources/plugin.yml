@@ -1,0 +1,7 @@
+name: NorthwesternMinecraftServer
+version: 1.0.0
+main: com.dilanxd.mcp.numc.NUMC
+description: A manager plugin for the Northwestern Minecraft server
+author: Dilan Nair
+website: https://www.dilanxd.com
+api-version: 1.20
