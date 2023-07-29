@@ -5,3 +5,9 @@ description: A manager plugin for the Northwestern Minecraft server
 author: Dilan Nair
 website: https://www.dilanxd.com
 api-version: 1.20
+
+commands:
+  numc:
+    description: Northwestern Minecraft server utility plugin information
+  admins:
+    description: List admins and methods of contacting them
